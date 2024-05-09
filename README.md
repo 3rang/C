@@ -4,7 +4,7 @@ Welcome to the Basic Tutorial on C Programming Language! This tutorial is design
 
 ## Table of Contents
 1. [Bitwise Operations](bitwise/README.md)
-2. [Control Statements](#control-statements)
+2. [Control Statements](control_statements/README.md)
 3. [Patterns](#patterns)
 4. [Recursion](#recursion)
 5. [Strings](#strings)
