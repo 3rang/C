@@ -1,4 +1,4 @@
-#Arrays
+# Arrays
 
 1) Write a C program to input 10 numbers through the keyboard into an array and
      display the results of the addition of even numbers and the product of odd numbers.
