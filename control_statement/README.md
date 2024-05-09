@@ -29,11 +29,9 @@
 
 10. **Complement and Representations**
     - Write a C Program to find the complement of a given number and then print its binary, decimal, octal, and hexadecimal values. Note: number can be either positive or negative. And observe the result satisfying its formula or not.
-        - Formula: 1's complement of (x) = -(x + 1)
 
 11. **2's Complement and Representations**
     - Write a C Program to find the 2's complement of a given number and then print its binary, decimal, octal, and hexadecimal values. Note: number can be either positive or negative. And observe the result satisfying its formula or not.
-        - Formula: 2's complement of (x) = -(x)
 
 12. **Power without pow() Function**
     - Write a C Program to find the power of a given number without using pow() function.
