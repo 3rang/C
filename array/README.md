@@ -53,7 +53,7 @@
   
      Ex:   source array           {10,2,4,5,2,1,3,4,6,5,8,9,2}
 
-             destination arrays  {10,2,4,5,1,3,6,8,9} ,   { 2,2,4,5} 
+             destination arrays  {10,2,4,5,1,3,6,8,9} ,   { 2,4,5} 
                                                      first slot               second slot
 
        Take two different arrays for the first and second slots. 
