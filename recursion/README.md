@@ -1,5 +1,4 @@
 # Recursion Functions
--------------------------------------------------------------------------------------------------------
 
 1)	Write a recursive function to find the factorial of a given number..
 
