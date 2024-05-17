@@ -10,16 +10,17 @@
 
 5)	Write a recursive function that displays all the proper divisors of a given number
 	 except that and returns their sum.
-	 Ex: 1,3,5,9,15 & 45 are the proper divisors of 45.
+```
+      Ex: 1,3,5,9,15 & 45 are the proper divisors of 45.
 	        sum = 1+3+5+9+15
 		      = 33
+```
+7) Write a recursive function that displays a positive integer in words.
+ 	For ex: if the integer is 3412 then it is displayed as three four one two.
 
-     6) Write a recursive function that displays a positive integer in words. For ex: if the
-          an integer is 3412 then it is displayed as three four one two.
+8)	Write a recursive function to print the first 100 prime numbers.
 
-7)	Write a recursive function to print the first 100 prime numbers.
-
-8)	Write a recursive function to print the palindrome numbers in a given number.
+9)	Write a recursive function to print the palindrome numbers in a given number.
 
       9)  A number is perfect if the sum of all its positive proper divisors equals the
            number. For example, 28 is a perfect number since 28 = 1+2+4+14. Write a 
