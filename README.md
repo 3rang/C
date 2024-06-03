@@ -9,6 +9,6 @@ Welcome to the Basic Tutorial on C Programming Language! This tutorial is design
 4. [Arrays](array/README.md)
 5. [Pointers](pointer/README.md)
 6. [Recursion](recursion/README.md)
-7. [Strings](strings/README.md)
+7. [String](string/README.md)
 8. [File Handling](file/README.md)
 9. [Data Structures](DS/README.md)
